@@ -1,2 +1,2 @@
-# Computer_Vision with prof Laurens van der Maaten
+# Computer_Vision 
  
